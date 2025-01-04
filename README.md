@@ -1,2 +1,1 @@
-# Guvi
-Copper modeling
+# Copper modeling
